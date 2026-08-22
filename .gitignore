@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.h5
+*.keras
+processed_data/
+dataset/Normal/*
+dataset/Lung_Opacity/*
+dataset/Viral_Pneumonia/*
+!dataset/Normal/.gitkeep
+!dataset/Lung_Opacity/.gitkeep
+!dataset/Viral_Pneumonia/.gitkeep
